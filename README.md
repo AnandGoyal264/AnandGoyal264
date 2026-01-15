@@ -11,7 +11,7 @@ I’m <b>Anand Goyal </b>, a passionate <b>MERN Stack Developer</b> and <b>DSA e
 
 
 🌐 Personal Portfolio:  
-<a href="www.anandgoyal.online" target="_blank"><b>www.anandgoyal.online</b></a>
+<a href="https://www.anandgoyal.online" target="_blank"><b>https://www.anandgoyal.online</b></a>
 </div>
 
 <br />
